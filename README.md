@@ -1,4 +1,4 @@
-# House Price Determinants
+# Determinants of House Prices
 
 ## Analysing house prices in R using the popular Boston Housing Dataset. 
 
