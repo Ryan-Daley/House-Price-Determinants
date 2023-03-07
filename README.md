@@ -1,6 +1,6 @@
 # Determinants of House Prices
 
-## Analysing house prices in R using the popular Boston Housing Dataset. 
+### Analysing house prices in R using the popular Boston Housing Dataset. 
 
 The aim of this project was to analyse the provided housing dataset using machine learning techniques to deride insights and patterns within the housing market. The report analyses the dataset through regression, clustering and classification techniques to achieve these aims. Notably, the reports regression model was able to account for 79% of sale price variance (adjusted R-squared of 0.79) and using K-means and Hierarchical clustering, were able to successfully group houses based on their features.
 
