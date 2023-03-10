@@ -1,7 +1,8 @@
 # Determinants of House Prices
 
 #### Analysing house prices in R using the popular Boston Housing Dataset. 
-[CLICK HERE](https://github.com/Ryan-Daley/House-Price-Determinants) for full project and analysis (link to github repository)
+[Click here for full project](https://raw.githubusercontent.com/Ryan-Daley/House-Price-Determinants/main/Final%20Report.pdf)
+
 ![image](https://user-images.githubusercontent.com/113039811/221191533-08aade18-7fa2-4e77-8e66-278a897b5d2b.png)
 
 The aim of this project was to analyse the provided housing dataset using machine learning techniques to deride insights and patterns within the housing market. The report analyses the dataset through regression, clustering and classification techniques to achieve these aims.
