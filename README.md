@@ -1,7 +1,7 @@
 # Determinants of House Prices
 
 #### Analysing house prices in R using the popular Boston Housing Dataset. 
-[Click here for full project](https://raw.githubusercontent.com/Ryan-Daley/House-Price-Determinants/main/Final%20Report.pdf)
+#### [Click here for full project](https://raw.githubusercontent.com/Ryan-Daley/House-Price-Determinants/main/Final%20Report.pdf)
 
 ![image](https://user-images.githubusercontent.com/113039811/221191533-08aade18-7fa2-4e77-8e66-278a897b5d2b.png)
 
